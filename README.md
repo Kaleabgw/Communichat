@@ -2,7 +2,7 @@
 # Communichat
 
 ## Introduction 
-Communichat is a web application that enables users to interact and engage with family members, friends, and colleagues. This chatting app was built with React JS and Chat Engine.
+Communichat is a web application that enables users to interact and engage with family members, friends, and colleagues using text messages and images. This chatting app was built with React JS and Chat Engine API.
 
 ## Tech/Frameworks used
 
@@ -37,11 +37,12 @@ Communichat is a web application that enables users to interact and engage with 
 ### Chat History
 ![image](https://github.com/Kaleabgw/Communichat/assets/139714674/b996f699-a172-4843-9375-5b7fa9df6426)
 
-### Online/Offline Indicators
+### Online/Offline Indicators (using red and green indicators)
 ![image](https://github.com/Kaleabgw/Communichat/assets/139714674/2c409f78-eed1-4772-86dc-8ef6270e52c5)
 
+## Deployment
 
-
+To access the deployed project, simply refer to this site -> https://communichat.netlify.app
 
 
 
