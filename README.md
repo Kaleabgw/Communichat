@@ -21,7 +21,7 @@ Communichat is a web application that enables users to interact and engage with 
 
 -Messaging: Communichat, by using Chat Engine API, allows users to send and receive messages instantly.
 
--Profile Pictures/Avatars: Allows users to customize their profile pictures either using pictures or any avatar pictures.
+-Profile Pictures/Avatars: Allow users to customize their profile pictures either using pictures or any avatar pictures.
 
 -Group Chats: Communichat supports group chats, enabling users to engage and connect with more than one person at a time.
 
